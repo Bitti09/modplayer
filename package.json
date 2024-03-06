@@ -17,7 +17,7 @@
     "@iconify-json/carbon": "1.1.6",
     "@mdx-js/rollup": "2.1.2",
     "@rollup/plugin-replace": "4.0.0",
-    "@solid-primitives/destructure": "0.1.0",
+    "@solid-primitives/destructure": "0.1.17",
     "@solid-primitives/i18n": "1.1.0",
     "@testing-library/dom": "8.16.0",
     "@testing-library/user-event": "14.2.1",
